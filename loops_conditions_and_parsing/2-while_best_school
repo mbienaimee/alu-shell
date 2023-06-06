@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+This is  a Bash script that display best school 
+
+COUNT=9
+while((COUNT>=0));
+do
+	echo "Best School"
+((COUNT--))
+done;
+
