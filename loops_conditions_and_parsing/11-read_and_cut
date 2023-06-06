@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#script to output Best school 10 times using while loop
+while IFS=: read -r f1 f3 f6; do echo "$f1:$f3:$f6";done</etc/passwd
+
