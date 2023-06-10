@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script can lists all my processes
+
+ps auxf
